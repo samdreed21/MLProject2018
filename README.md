@@ -1,7 +1,7 @@
 # MLProject2018
-CSCI 4622 Project Proposal
-Taylor Jesse, Nelson Mitchell, Samuel Reed
-October 2018
+CSCI 4622 Project Proposal 
+Taylor Jesse, Nelson Mitchell, Samuel Reed 
+October 2018 
 1 Project Description
 For our semester project, we chose to enter the Photometric LSST Astronomical
 Time-Series Classification Challenge (PLAsTiCC) on Kaggle. Our group gravitated
